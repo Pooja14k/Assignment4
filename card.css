@@ -1,0 +1,49 @@
+.back{
+    margin-top: 5%;
+    margin-left: 7%;
+    margin-right: 7%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.block{
+    width: 250px;
+    height: auto;
+    align-items: center;
+    padding: 15px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    
+}
+.image{  
+    display: block;
+    width: 150px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.button{
+    width: 50%;
+    height: 30px;
+    color: whitesmoke;
+    background-color: red;
+}
+.rating{
+    width: 30%;
+    height: 30%;
+}
+.heading{
+    color: black;
+    font-weight: 300;
+    cursor: pointer;
+}
+.price{
+    font-size: 20px;
+    color: red;
+    font-style: normal;
+}
+.change{
+    font-size: 20px;
+    color: rgb(30, 129, 96);
+}
